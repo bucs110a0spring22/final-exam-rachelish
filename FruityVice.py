@@ -7,14 +7,15 @@ class FruityVice:
     r = requests.get(self.url)
     response = r.json()
       
-
     for i in response:
-      user = input("Want to hear a cat fact?: ")
-
+      user = input("Want to hear a cat fact? (Y/N): ")
       if user.upper() == "Y" :
-        print(i['text'])
+          print(i['text'])
       else:
-          break      
+          user2 = input("Well, do you want to hear a food fact? (Y/N)")
+          if user2.upper() == "Y":
+            print(i[])
+                
 
         
     #print('name')

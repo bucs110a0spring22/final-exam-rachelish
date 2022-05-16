@@ -2,16 +2,14 @@ import requests
 #for shuffling possible answers later
 import random 
 import FruityVice
+import Cats
 
 def main():
-  fruitAPI = FruityVice.FruityVice()
-  results = fruitAPI.get()
+  catAPI = Cats.Cats()
+  results = catAPI.get()
 
-  #for i in results:
-    #answers = 
-
-
-  #print(f'sugar:{i}')
+  fruitsAPI = FruityVice.FruityVice()
+  results2 = fruitsAPI.get()
 
 main()
   

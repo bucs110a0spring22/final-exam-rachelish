@@ -1,0 +1,1 @@
+https://openfoodfacts.github.io/api-documentation/#collapse-7Metadata-ListAllergens

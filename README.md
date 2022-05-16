@@ -13,15 +13,16 @@ Please make sure you have completed the soot survey at:
 
 Please list the urls for the APIs you used:
 
+
 Summary of Program:
+Forces user to listen to cat facts, or else computer yells at them with creative insults.
 
 Most Challenging topic in the course:
-
+I don't know. I mentally checked out back in march. Dont even know who I am anymore.
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+its not incomplete but i wanted to use the fruityvice api instead, but i couldnt figure out how to get the url to work.
 
 ## REFERENCES:
- < List any outside resources used >
-
+The internet
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+AHHHHHHHHHHHHHSHHhhshbgUSDCBHFvnW_IA
